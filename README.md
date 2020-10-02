@@ -3,7 +3,7 @@
 1. python
 2. aws cli
 
-**steps**
+**Steps**
 1. get aws cli info from aws educate account -> vocareum workbench -> account details
 2. Copy paste the info in .aws/credentials in the local machine
 3. Run face_rekognition.py
