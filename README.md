@@ -1,5 +1,5 @@
 # aws_face_rekognition
-**Pre-requisites***
+**Pre-requisites**
 1. python
 2. aws cli
 
