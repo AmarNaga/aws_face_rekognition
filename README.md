@@ -1,16 +1,16 @@
 # aws_face_rekognition
-#Pre-requisites
+**Pre-requisites***
 1. python
 2. aws cli
 
-#steps
+**steps**
 1. get aws cli info from aws educate account -> vocareum workbench -> account details
 2. Copy paste the info in .aws/credentials in the local machine
 3. Run the code
 
 Note: aws cli info needs to get renewed every 1 hour
 
-#About the code
+**About the code**
 This is the facial rekognition feature under amazon analytics services provided by the AWS itsself.
 Note that you will need an aws account few credits to run the code effectively.
 It uses the detect_faces method by boto3
