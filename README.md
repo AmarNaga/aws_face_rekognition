@@ -19,7 +19,7 @@ This program can rekognize details like age range, gender, sunglasses, smile, mo
 Finally the facial attributes will be saved in image_info.json file in sorted JSON format.  
 The commented code can be run to see the full emotion type and confidence of provided image and to view all the available facial attributes provided by boto3's detect_faces.  
 
-The Image used for testing the program is male.jpg and can be found in Images folder.
+The Image used for testing the program is **"male.jpg"** and can be found in Images folder.
 
 **Expected Output**  
 
