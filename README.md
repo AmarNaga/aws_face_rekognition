@@ -10,7 +10,7 @@
 
 Note: aws cli info needs to get renewed every 1 hour
 
-**About the code**
+**About the code**  
 This is the facial rekognition feature under amazon analytics services provided by the AWS itsself.  
 Note that you will need an aws account few credits to run the code effectively.  
 It uses the detect_faces method by boto3  
